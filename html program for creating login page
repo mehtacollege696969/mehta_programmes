@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Login id page </title>
+</head>
+<body>
+<a> Login Id<input type="textbox" value="t1">
+<br>
+<a> Password<input type="textbox" value+"t2">
+<br>
+SUBMIT<input type"button" value="submit">
+RESET<input type"button" value+"reset">
+</body>
+</html>
